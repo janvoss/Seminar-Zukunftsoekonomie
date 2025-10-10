@@ -1,0 +1,22 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Seminar Zukunftsökonomie – Green Economics",
+    "section": "",
+    "text": "\\({}\\)\n\\({}\\)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrganisatorisches\n\n\n\n\n\n\nUnterlagen: https://janvoss.github.io/Seminar-Zukunftsoekonomie\nModul: 209-020: Seminar Zukunftsökonomie und -kompetenzen (Modulhandbuch)\nWeitere Veranstaltungen im Modul:\n\nZukunftskompetenzen\n\nPrüfungsleistung:\n\nStudienarbeit (80%)\n\nSeminararbeit (75%)\n\nPräsentation des Arbeitsstandes/der Kernergebnisse (25%)\n\nKlausur (20%)\n\n\n\n\n\n\n\n\n\n\n\nTechnische Anmerkung\n\n\n\n\n\nDie Unterlagen beinhalten Elemente, die mit R oder mit Python erstellt wurden. Der jeweilige Code wird (fast immer) an der entsprechenden Stelle angezeigt.\nDie Unterlagen selbst werden mit Quarto in der Sprache Markdown erstellt und beinhalten auch Elemente von \\(\\LaTeX\\). Das Literaturverzeichnis beruht auf einem BibTeX-Export aus Zotero Der Quellcode ist auf GitHub einsehbar.\nDie Kenntnis dieser Sprachen/Programme wird für die Modulprüfung nicht vorausgesetzt. Sie ist aber für das weitere Studium und das Leben danach vermutlich hilfreich.",
+    "crumbs": [
+      "Organisatorisches"
+    ]
+  },
+  {
+    "objectID": "literatur.html",
+    "href": "literatur.html",
+    "title": "Literatur",
+    "section": "",
+    "text": "Berger-Grabner, Doris. 2016. Wissenschaftliches Arbeiten in den Wirtschafts- und Sozialwissenschaften. Hilreiche Ttipps und praktische Beispiele. Wiesbaden.\n\n\nBjörk, Bo Christer. 2017. “Gold, Green, and Black Open Access.” Learned Publishing 30: 173–75.\n\n\nBohannon, John. 2016. “Who’s Downloading Pirated Papers? Everyone.” Science, Doi: 10.1126/Science.352.6285.508.\n\n\nEl Kassar, Nadja. 2021. “Was ist Wissen? Einige philosophische überlegungen.” Aus Politik und Zeitgeschichte 71 (3): 4–8.\n\n\nHimmelstein, Daniel S, Ariel R Romero, Bastian Greshake Tzovaras, and Casey S Greene. 2017. “Sci-Hub Provides Access to Nearly All Scholarly Literature.” PeerJ PrePrints, Doi: 10.7554/eLife.32822.001. https://doi.org/https://doi.org/10.7554/eLife.32822.001.\n\n\nKolmer, Petra. 2017. “Wahrheit. Ein philosophischer Streifzug.” Aus Politik und Zeitgeschichte 67 (13): 40–44.\n\n\nLee, Hao-Ping (Hank), Advait Sarkar, Lev Tankelevitch, Ian Drosos, Sean Rintel, Richard Banks, and Nicholas Wilson. 2025. “The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects from a Survey of Knowledge Workers.” In. https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/.\n\n\nMcKenzie, Lindsay. 2017. “Sci-Hub’s Cache of Pirated Papers Is so Big, Subscription Journals Are Doomed, Data Analyst Suggests.” Science, Doi: 10.1126/Science.aan7164. https://doi.org/10.1126/science.aan7164.\n\n\nOehlrich, Marcus. 2019. Wissenschaftliches Arbeiten und Schreiben. Schritt für Schritt zur Bachelor- und Masterthesis in den Wirtschaftswissenschaften. Berlin-Heidelberg.\n\n\nOtte, Ralf. 2023. “Intelligenz und Bewusstsein.” Aus Politik und Zeitgeschichte, no. 42: 9–16. https://www.bpb.de/shop/zeitschriften/apuz/kuenstliche-intelligenz-2023/541495/intelligenz-und-bewusstsein/.\n\n\nWeingart, Peter. 2017“,,Wahres Wissen“ und demokratisch verfasste Gesellschaft.” Aus Politik und Zeitgeschichte 67 (13): 11–16.",
+    "crumbs": [
+      "Literatur"
+    ]
+  }
+]

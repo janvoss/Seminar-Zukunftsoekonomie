@@ -1,0 +1,34 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Seminar Zukunftsökonomie -- Green Economics"
+  author: "Prof. Dr. Jan S. Voßwinkel"
+  # date: "2025"
+  subtitle: "Wintersemester 2025/26"
+  #lang: de
+  language:  _language.yml
+  repo-url: https://github.com/janvoss/Seminar-Zukunftsoekonomie.git
+#  issued: "Sommersemester 2024"
+  license: "CC BY-SA"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - literatur.qmd
+
+
+
+
+bibliography: Seminar-Zukunftsoekonomie.bib
+
+
+
+format:
+  html:
+    theme: cosmo
+    code-fold: true
+    code-overflow: wrap
+
+editor: source
+
