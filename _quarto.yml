@@ -15,6 +15,10 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - Aufgabenstellung.qmd
+    - Hintergrund.qmd
+    - Sitzungsverlaeufe.qmd
+    - Fazit.qmd
     - literatur.qmd
 
 
