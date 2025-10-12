@@ -34,7 +34,7 @@
     "href": "Aufgabenstellung.html",
     "title": "2  Aufgabenstellung",
     "section": "",
-    "text": "2.1 Prüfungsleistung(en)",
+    "text": "2.1 Thema des Seminars",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Aufgabenstellung</span>"
     ]
@@ -43,8 +43,8 @@
     "objectID": "Aufgabenstellung.html#prüfungsleistungen",
     "href": "Aufgabenstellung.html#prüfungsleistungen",
     "title": "2  Aufgabenstellung",
-    "section": "",
-    "text": "Seminararbeit als Einzelleistung (!) (75%)\nUmfang ca 10-12 Seiten\n[Thema]\n[Daten]\nPräsentation des Arbeitsstandes/der Kernergebnisse (25%)\nSelbständige Recherche geeigneter Literatur in angemessenem Umfang\nBerücksichtigung von mindestens drei englischsprachigen wissenschaftlichen Texten\n\nPräsentation des Arbeitsstandes/der Kernergebnisse (25%)\nAbgabe der Seminararbeiten bis [Datum]\nTerminierung der Referate noch offen",
+    "section": "2.2 Prüfungsleistung(en)",
+    "text": "2.2 Prüfungsleistung(en)\n\nSeminararbeit als Einzelleistung (!) (75%)\nUmfang ca 10-12 Seiten\nPräsentation des Arbeitsstandes/der Kernergebnisse (25%)\nSelbständige Recherche geeigneter Literatur in angemessenem Umfang\nBerücksichtigung von mindestens drei englischsprachigen wissenschaftlichen Texten\n\nPräsentation des Arbeitsstandes/der Kernergebnisse (25%)\nAbgabe der Seminararbeiten bis 18.12.2025\nTerminierung der Referate ist derzeit noch offen",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Aufgabenstellung</span>"
     ]
@@ -53,8 +53,8 @@
     "objectID": "Aufgabenstellung.html#rahmenbedingungen",
     "href": "Aufgabenstellung.html#rahmenbedingungen",
     "title": "2  Aufgabenstellung",
-    "section": "2.2 Rahmenbedingungen",
-    "text": "2.2 Rahmenbedingungen\n\nSitzungen im Plenum\nEinzelarbeit/ Einzelgespräche\n\nGruppenarbeit\n\nPeer Review",
+    "section": "2.3 Rahmenbedingungen",
+    "text": "2.3 Rahmenbedingungen\n\nSitzungen im Plenum\nEinzelarbeit/ Einzelgespräche\n\nGruppenarbeit\n\nPeer Review",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Aufgabenstellung</span>"
     ]
@@ -117,6 +117,46 @@
     "text": "4.1 Ehret das Handwerk!\n\n\nSteve Jobs explains the difference between a great idea and a great product: pic.twitter.com/7a088mcWZc\n\n— Business Nerd 🧠 ((BusinessNerd_?)) July 1, 2025\n\n\n\n\n\n\nOehlrich, Marcus. 2019. Wissenschaftliches Arbeiten und Schreiben. Schritt für Schritt zur Bachelor- und Masterthesis in den Wirtschaftswissenschaften. Berlin-Heidelberg.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Ihre Seminararbeit</span>"
+    ]
+  },
+  {
+    "objectID": "Aufgabenstellung.html#thema-des-seminars",
+    "href": "Aufgabenstellung.html#thema-des-seminars",
+    "title": "2  Aufgabenstellung",
+    "section": "",
+    "text": "Im Zentrum steht dieses Semester die Conference of the Parties | COP30, die vom 10. November 2025 bis zum 21. November in Belém (Brasilien) stattfindet\nIm Seminar setzen wir uns mit den Themen der Konferenz, den Positionen der Staaten sowie dem (noch offenen) Gesamtergebnis auseinander.\nAus diesem Themenkomplex entwickeln Sie Ihre Seminararbeit",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Aufgabenstellung</span>"
+    ]
+  },
+  {
+    "objectID": "Hintergrund.html",
+    "href": "Hintergrund.html",
+    "title": "4  Hintergrund",
+    "section": "",
+    "text": "4.1 Institutionalisierung des internationalen Klimaschutzes",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Hintergrund</span>"
+    ]
+  },
+  {
+    "objectID": "Hintergrund.html#die-cop",
+    "href": "Hintergrund.html#die-cop",
+    "title": "4  Hintergrund",
+    "section": "4.2 Die COP",
+    "text": "4.2 Die COP",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Hintergrund</span>"
+    ]
+  },
+  {
+    "objectID": "Hintergrund.html#der-emissions-gap-report-2024",
+    "href": "Hintergrund.html#der-emissions-gap-report-2024",
+    "title": "4  Hintergrund",
+    "section": "4.3 Der Emissions Gap Report 2024",
+    "text": "4.3 Der Emissions Gap Report 2024",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Hintergrund</span>"
     ]
   }
 ]
