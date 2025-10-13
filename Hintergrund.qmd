@@ -5,3 +5,5 @@
 ## Die COP
 
 ## Der Emissions Gap Report 2024
+
+<embed src="https://www.undp.org/sites/g/files/zskgke326/files/2025-01/egr2024.pdf" type="application/pdf" width="100%" height="700px">
