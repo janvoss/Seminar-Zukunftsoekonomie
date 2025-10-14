@@ -9,6 +9,10 @@
 
 ## 21.10.25 {-}
 
+- [ ] Vertiefung des thematischen Hintergrunds
+- [ ] Vorstellung der Themen
+- [ ] Mechanismus der Themenvergabe
+
 ## 28.10.25 {-}
 
 ## 4.11.25 {-}
