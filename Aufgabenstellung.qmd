@@ -49,4 +49,16 @@
 - Sitzungen im Plenum
 - Einzelarbeit/ Einzelgespräche  
 - Gruppenarbeit  
-- Peer Review
+- ~~Peer Review~~
+
+## Abschlusspräsentation
+
+- **Zeitlicher Umfang**: ca 15 Minuten
+
+- **Inhalt**: Kernaussagen Ihrer Ausarbeitung
+
+- **Show**: Demonstration Ihrer Kompetenz  
+  - Analytische Fähigkeiten
+  - Aufbereitung von Informationen
+  - Rechercheleistung
+  - $\dots$

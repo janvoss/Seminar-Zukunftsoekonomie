@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -172,6 +201,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#prüfungsleistungen" id="toc-prüfungsleistungen" class="nav-link" data-scroll-target="#prüfungsleistungen"><span class="header-section-number">2.2</span> Prüfungsleistung(en)</a></li>
   <li><a href="#themen-der-seminararbeiten" id="toc-themen-der-seminararbeiten" class="nav-link" data-scroll-target="#themen-der-seminararbeiten"><span class="header-section-number">2.3</span> Themen der Seminararbeiten</a></li>
   <li><a href="#rahmenbedingungen" id="toc-rahmenbedingungen" class="nav-link" data-scroll-target="#rahmenbedingungen"><span class="header-section-number">2.4</span> Rahmenbedingungen</a></li>
+  <li><a href="#abschlusspräsentation" id="toc-abschlusspräsentation" class="nav-link" data-scroll-target="#abschlusspräsentation"><span class="header-section-number">2.5</span> Abschlusspräsentation</a></li>
   </ul>
 </nav>
     </div>
@@ -240,7 +270,21 @@ ul.task-list li input[type="checkbox"] {
 </li>
 <li>Gruppenarbeit<br>
 </li>
-<li>Peer Review</li>
+<li><del>Peer Review</del></li>
+</ul>
+</section>
+<section id="abschlusspräsentation" class="level2" data-number="2.5">
+<h2 data-number="2.5" class="anchored" data-anchor-id="abschlusspräsentation"><span class="header-section-number">2.5</span> Abschlusspräsentation</h2>
+<ul>
+<li><p>Zeitlicher Umfang: ca 15 Minuten</p></li>
+<li><p>Inhalt: Kernaussagen Ihrer Ausarbeitung</p></li>
+<li><p>Show: Demonstration Ihrer Kompetenz</p>
+<ul>
+<li>Analytische Fähigkeiten</li>
+<li>Aufbereitung von Informationen</li>
+<li>Rechercheleistung</li>
+<li><span class="math inline">\(\dots\)</span></li>
+</ul></li>
 </ul>
 
 
